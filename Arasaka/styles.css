@@ -1,0 +1,113 @@
+body {
+    background-color: black;
+}
+
+menu img {
+    position: relative;
+    margin-top: 250px;
+    margin-left: 150px;
+    margin-bottom: 40px;
+    height: 300px;
+}
+
+menu ul li {
+    position: relative;
+    margin-left: 110px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border: 2px solid rgb(1,139,161);
+    border-radius: 0 0 15px;
+    padding: 15px;
+    width: 270px;
+}
+
+menu ul li:hover {
+    background-color: rgb(1,139,161);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(1,139,161);
+}
+
+a:hover {
+    color: white;
+}
+
+.employee-card {
+    position: absolute;
+    margin-left: 650px;
+    margin-top: -680px;
+    background-color: rgb(5,24,25);
+    width: 290px;
+    border-left: 90px solid rgb(1,139,161);
+    border-bottom: 5px solid rgb(1,139,161);
+    border-right: 2px solid rgb(1,139,161);
+}
+
+.data1 {
+    margin-left: 20px;
+}
+
+.employee-card section h1 {
+    color: aqua;
+    font-family: sans-serif;
+    font-size: 8px;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+.employee-card section p {
+    margin-left: 20px;
+    font-weight: lighter;
+    color: aqua;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+section {
+    width: 220px;
+}
+
+.third-card {
+    position: absolute;
+    margin-left: 1090px;
+    margin-top: -970px;
+    background-color: rgb(5,24,25);
+    width: 760px;
+    height: 1000px;
+    border-left: 90px solid rgb(1,139,161);
+    border-bottom: 5px solid rgb(1,139,161);
+    border-right: 2px solid rgb(1,139,161);
+}
+
+.third-card h1 {
+    margin-left: 20px;
+    margin-top: 190px;
+    color: rgb(1,139,161);
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.third-card h2 {
+    margin-left: 20px;
+    margin-top: 90px;
+    color: rgb(1,139,161);
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.third-card p {
+    margin-left: 20px;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
