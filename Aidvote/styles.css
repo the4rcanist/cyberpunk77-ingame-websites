@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+    width: 50%;
+    margin: auto;
+}
+
+.header {
+    margin: auto;
+}
+
+.left-image {
+    position: absolute;
+    margin-top: 15px;
+}
+
+main {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width: 900px;
+    height: 800px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+::-webkit-scrollbar-track {
+    background: rgb(255, 255, 255);
+  }
+  
+::-webkit-scrollbar-thumb {
+    background: rgb(157, 255, 0);
+  }
+
+
+section {
+    position: relative;
+    margin-left: 330px;
+    width: 550px;
+    margin-top: 15px;
+}
+
+.main-text p {
+    color: white;
+    font-size: 23px;
+    line-height: 35px;
+    font-family: sans-serif;
+}
+
+.main-text h2 {
+    color: rgb(157, 255, 0);
+    font-family: sans-serif;
+}
+
+#bottom-text {
+    color: darkgreen;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+#comments h3 {
+    color: rgb(166, 255, 0);
+    font-family: sans-serif;
+}
+
+#comments p{
+    color: white;
+    font-family: sans-serif;
+}
