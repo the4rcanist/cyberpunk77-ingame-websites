@@ -1,0 +1,76 @@
+body {
+    background-color: black;
+    width: 900px;
+}
+
+.first-heading {
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 20px;
+
+}
+
+.second-heading {
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 400px;
+    width: 400px;
+    height: 240px;
+}
+
+.chippin-in-verse {
+    color: red;
+    line-height: 80px;
+}
+
+.welcome {
+    color: red;
+}
+
+.desc1 {
+    color: red;
+    line-height: 40px;
+}
+
+section {
+    color: white;
+    position: absolute;
+    width: 1000px;
+    height: 700px;
+    margin-top: 700px;
+    margin-left: 490px;
+    text-align: center;
+    overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+::-webkit-scrollbar-track {
+    background: rgb(20, 20, 20)
+  }
+  
+::-webkit-scrollbar-thumb {
+    background: rgb(255, 0, 0);
+  }
+
+
+section img {
+    margin-bottom: 50px;;
+}
+
+ul {
+    font-size: 25px;
+    font-family: sans-serif;
+    line-height: 40px;
+}
+
+ul li {
+    margin-bottom: 35px;
+}
+
+p {
+    font-size: 25px;
+    font-family: sans-serif;
+}
