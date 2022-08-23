@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    width: 950px;
+    margin: 10px auto;
+}
+
+menu {
+    position: relative;
+    left: 130px;
+}
+
+a {
+    margin-left: 50px;
+    text-decoration: none;
+    color: rgb(6, 87, 87);
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+a:hover {
+    color: white;
+}
+
+.uscracks {
+    position: relative;
+    left: 160px;
+    top: 30px;
+}
+
+p {
+    color: rgb(6, 87, 87);
+    font-family: sans-serif;
+    font-size: 35px;
+    position: relative;
+    top: 20px;
+    text-align: justify;
+    line-height: 65px;
+}
