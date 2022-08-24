@@ -1,0 +1,93 @@
+body {
+    background-color: black;
+    width: 950px;
+    margin: auto;
+}
+
+header img {
+    margin: 10px auto;
+}
+
+menu {
+    position: relative;
+    left: 100px;
+    margin: 60px 60px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(27, 16, 53);
+    margin-left: 25px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+a:hover {
+    color: rgb(255, 153, 241);
+}
+
+section {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin-bottom: 20px;
+    padding-right: 10px;
+    height: 600px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: rgb(255, 153, 241);
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: rgb(27, 16, 53);
+  }
+
+
+.image {
+    display:inline-block;
+    vertical-align:top;
+}
+
+.news-card {
+    display:inline-block;
+}
+
+.news-card h1 {
+    display: inline-block;
+    color: rgb(27, 16, 53);
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+ 
+.news-card p {
+    display: inline;
+    color: rgb(255, 153, 241);
+    font-family: sans-serif;
+    font-weight: lighter;
+    line-height: 30px;
+}
+
+hr {
+    background-color: rgb(27, 16, 53);
+    height: 3px;
+    border: 1px solid rgb(27, 16, 53);
+}
+
+h2 {
+    color: rgb(27, 16, 53);
+    font-family: sans-serif;
+    font-weight: lighter;
+    width: 900px;
+}
+
+.sponsors {
+    margin: auto;
+    margin: 10px 0 20px 0;
+    width: 900px;
+}
