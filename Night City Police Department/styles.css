@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    margin: auto;
+    width: 70%;
+}
+
+header img {
+    margin: auto;
+    padding-top: 10px;
+}
+
+menu {
+    padding-left: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+a {
+    color: white;
+    padding: 30px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+a:hover {
+    color: rgb(0, 89, 255);
+}
+
+.police {
+   padding-left: 250px;
+   padding-top: 50px;
+   padding-bottom: 30px;
+}
+
+div {
+    margin: auto;
+}
+
+
+.description {
+    color: white;
+    line-height: 30px;
+}
