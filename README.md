@@ -1,9 +1,19 @@
-# Cyberpunk77 In-Game Websites
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=the4rcanist&repo=cyberpunk77-ingame-websites&theme=highcontrast"></a>
-
-A Project to re-Create all websites found on The Net in Cyberpunk 2077
+# Cyberpunk In-Game websites Recreation
 
 
+###### Websites recreated from The Net in Cyberpunk 2077
 
+[Image of the main web hub]
+
+## Introduction
+Check it out on [codepen link]
+
+###  Technologies used:
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+
+#### List of websites done
+
+- Aidvote
