@@ -4,7 +4,7 @@
 
 ###### Websites recreated from The Net in Cyberpunk 2077
 
-[Image of the main web hub]
+<!--[Image of the main web hub]-->
 
 ## Introduction
 Check it out on [codepen link]
