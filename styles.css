@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    margin: auto;
+    width: 70%;
+}
+
+main {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width: 900px;
+    height: 800px;
+}
+
+.header {
+    margin: auto;
+}
+
+#arch_logo {
+    padding-left: 11em;
+}
+
+h1,h2 {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    padding-left: 21em;
+}
+
+p {
+    color: white;
+    font-size: 1.8em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    text-align: center;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+::-webkit-scrollbar-track {
+    background: rgb(255, 255, 255);
+  }
+  
+::-webkit-scrollbar-thumb {
+    background: rgb(77, 3, 0);
+  }
